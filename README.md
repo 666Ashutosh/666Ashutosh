@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashutosh666
+- 👋 Hi, I’m @Ashutosh Mohanty
 - 👀 I’m interested in watching movies and series and playing outside games.
 - 🌱 I’m currently learning  python and C++.
 - 💞️ I’m looking to collaborate on ...
